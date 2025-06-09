@@ -1,12 +1,20 @@
-👋 Hi, I’m @KingArdavanVI  
-👀 I’m interested in Web Development, AI, Networking, and Cybersecurity  
-🌱 I’m currently learning Node.js, React.js, and AI-based Content Filtering  
-📫 How to reach me: [Ardavan.Hoseyni@proton.me]  
-😄 Pronouns: He/Him  
-⚡ Fun fact: I love playing guitar and capturing moments with my camera!  
+## Hi, I'm Ardavan — Full-Stack Web Developer
 
+Software engineering student  
+Passionate about web development and building real-world applications  
+Currently working on an online store with admin dashboard  
+Open to freelance projects and long-term collaborations
 
-<!---
-KingArdavanVI/KingArdavanVI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Tech Stack
+- Frontend: HTML, CSS, JavaScript  
+- Backend: PHP, MySQL  
+- Tools: Git, GitHub, VS Code, XAMPP
+
+### Projects
+- **Online Store**  
+  - Admin panel (Add / Edit / Delete products)  
+  - Shopping cart system  
+  - Responsive design  
+
+### Goals
+Improving my full-stack skills, getting freelance projects, and building a strong financial base to achieve my long-term dreams
